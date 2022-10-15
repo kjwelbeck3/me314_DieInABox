@@ -1,4 +1,4 @@
-# Simulating Impacts -- A very specific physics engine
+# Simulating Impacts -- A Very Specific Physics Engine
 
 <p align="center">
   <img width="50%" src="https://lh6.googleusercontent.com/DkLHuv10JCAyICOj3ImhsTpJaDbn0RaNpXyIfQzSSsb2jv20-AaIMsX0qlhzOCnBM5OkStYnizrvu6v2NLso7hprXU1WBev-RSdMsfnm5vjQXws8YyHcfV2k-0D_rEVw9lyfbERm7lW_-ns_IxHfgwpDDpcxKTV4LczA1DiDtQfkTZcDO0f6GFp5GA" alt="Die In a Box GIF"/>
