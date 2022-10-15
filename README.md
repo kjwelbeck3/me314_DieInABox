@@ -1,6 +1,8 @@
 # Simulating Impacts -- A very specific physics engine
 
-![img](https://lh6.googleusercontent.com/DkLHuv10JCAyICOj3ImhsTpJaDbn0RaNpXyIfQzSSsb2jv20-AaIMsX0qlhzOCnBM5OkStYnizrvu6v2NLso7hprXU1WBev-RSdMsfnm5vjQXws8YyHcfV2k-0D_rEVw9lyfbERm7lW_-ns_IxHfgwpDDpcxKTV4LczA1DiDtQfkTZcDO0f6GFp5GA)
+<p align="center">
+  <img width="50%" src="https://lh6.googleusercontent.com/DkLHuv10JCAyICOj3ImhsTpJaDbn0RaNpXyIfQzSSsb2jv20-AaIMsX0qlhzOCnBM5OkStYnizrvu6v2NLso7hprXU1WBev-RSdMsfnm5vjQXws8YyHcfV2k-0D_rEVw9lyfbERm7lW_-ns_IxHfgwpDDpcxKTV4LczA1DiDtQfkTZcDO0f6GFp5GA" alt="Die In a Box GIF"/>
+</p>
 
 ME314 (Theory of Machine Dynamics) was an introductory course in rigid multi-body dynamics. It culminated in an independent final project that brought together a lot of what was foundational to the course:
 
@@ -25,3 +27,5 @@ See [Jupyter Notebook](https://github.com/kjwelbeck3/me314_DieInABox/blob/main/M
 ## Simulation Results
 
 The die in the cup begins at rest and drops under gravity until one corner impacts the bottom of the cup, which is itself being driven by an external force. Both cup and die react upon impact and continue to collide multiple times during the simulation/animation as they both translate and rotate continually. The die only impacts the internal walls of the cup at its (the die’s) corners, per the initial conditions: q_die = (0, 0, pi/4), q_cup=(0, 0, -pi/15) 
+
+See [Video](https://github.com/kjwelbeck3/me314_DieInABox/blob/main/DieInACup.mp4)
